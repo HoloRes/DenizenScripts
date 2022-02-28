@@ -1,0 +1,2 @@
+# DenizenScripts
+Minecraft server DenizenScripts
